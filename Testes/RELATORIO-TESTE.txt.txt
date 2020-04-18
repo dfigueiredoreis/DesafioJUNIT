@@ -2,7 +2,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import JulgamentoPrisioneiro.Resposta;
 import junit.framework.Assert;
 
 class JulgamentoPrisioneiroTest {
