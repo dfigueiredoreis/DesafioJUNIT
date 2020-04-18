@@ -77,3 +77,10 @@ org.opentest4j.AssertionFailedError: expected: <10> but was: <11>
 não foi retornado o resultado esperado
 teste 2 SUCESSO
 foram adequadas as variáveis de teste
+
+
+teste metodo testCondenacaoInocencia
+teste 1
+testCondenacaoInocencia(JulgamentoPrisioneiroTest)
+org.opentest4j.AssertionFailedError: expected: <10> but was: <0>
+não foi retornado o resultado esperado
