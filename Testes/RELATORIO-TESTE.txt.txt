@@ -59,3 +59,5 @@ teste 2
 testCondenacaoMutua(JulgamentoPrisioneiroTest)
 org.opentest4j.AssertionFailedError: expected: <10> but was: <5>
 o retorno recebido não é igual ao retorno esperado
+teste 3 SUCESSO
+foram corrigidas as variaveis de retorno esperadas
