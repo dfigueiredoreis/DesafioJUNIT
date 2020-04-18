@@ -75,3 +75,5 @@ teste 1
 testCondenacaoCumplices(JulgamentoPrisioneiroTest)
 org.opentest4j.AssertionFailedError: expected: <10> but was: <11>
 não foi retornado o resultado esperado
+teste 2 SUCESSO
+foram adequadas as variáveis de teste
