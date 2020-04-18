@@ -1,5 +1,5 @@
 Daniel Figueiredo Reis de Queiroz 79768
-
+-----------------------------------------------------------------------------------------
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
@@ -47,3 +47,9 @@ class JulgamentoPrisioneiroTest {
 	
 
 }
+---------------------------------------------------------------------------
+
+teste 1
+java.lang.Error: Unresolved compilation problem: 
+	The method calculaPena(JulgamentoPrisioneiro.Resposta, JulgamentoPrisioneiro.Resposta) in the type JulgamentoPrisioneiro is not applicable for the arguments (String, String)
+Tipo de várivel errado para esse método, ele deve receber tipo Resposta porém está recebendo String
