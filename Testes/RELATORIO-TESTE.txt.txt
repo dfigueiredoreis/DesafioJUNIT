@@ -50,7 +50,7 @@ class JulgamentoPrisioneiroTest {
 ---------------------------------------------------------------------------
 
 
-testes classe testCondenacaoMutua
+testes metodo testCondenacaoMutua
 teste 1
 java.lang.Error: Unresolved compilation problem: 
 	The method calculaPena(JulgamentoPrisioneiro.Resposta, JulgamentoPrisioneiro.Resposta) in the type JulgamentoPrisioneiro is not applicable for the arguments (String, String)
@@ -62,7 +62,7 @@ o retorno recebido não é igual ao retorno esperado
 teste 3 SUCESSO
 foram corrigidas as variaveis de retorno esperadas
 
-teste classe testCondenacaoIndividual
+teste metodo testCondenacaoIndividual
 teste 1
 java.lang.Error: Unresolved compilation problem: 
 	The method calculaPena(JulgamentoPrisioneiro.Resposta, JulgamentoPrisioneiro.Resposta) in the type JulgamentoPrisioneiro is not applicable for the arguments (String, String)
@@ -70,3 +70,8 @@ Tipo de várivel errado para esse método, ele deve receber tipo Resposta porém es
 teste 2 SUCESSO
 foram corrigidas as variaveis de retorno esperadas
 
+teste metodo testCondenacaoCumplices
+teste 1
+testCondenacaoCumplices(JulgamentoPrisioneiroTest)
+org.opentest4j.AssertionFailedError: expected: <10> but was: <11>
+não foi retornado o resultado esperado
