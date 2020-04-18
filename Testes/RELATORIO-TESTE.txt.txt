@@ -84,3 +84,5 @@ teste 1
 testCondenacaoInocencia(JulgamentoPrisioneiroTest)
 org.opentest4j.AssertionFailedError: expected: <10> but was: <0>
 não foi retornado o resultado esperado
+teste 2 sucesso
+foi retornado o resultado esperado, inocente
